@@ -1,0 +1,30 @@
+E:\graphic\Me\Programming courses\ProgrammingAdvices\19 - Full Real Project\MyProject\DVLD_Buisness\bin\Debug\DVLD_Buisness.dll
+E:\graphic\Me\Programming courses\ProgrammingAdvices\19 - Full Real Project\MyProject\DVLD_Buisness\bin\Debug\DVLD_Buisness.pdb
+E:\graphic\Me\Programming courses\ProgrammingAdvices\19 - Full Real Project\MyProject\DVLD_Buisness\bin\Debug\DVLD_DataAccess.dll
+E:\graphic\Me\Programming courses\ProgrammingAdvices\19 - Full Real Project\MyProject\DVLD_Buisness\bin\Debug\DVLD_DataAccess.pdb
+E:\graphic\Me\Programming courses\ProgrammingAdvices\19 - Full Real Project\MyProject\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.AssemblyReference.cache
+E:\graphic\Me\Programming courses\ProgrammingAdvices\19 - Full Real Project\MyProject\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.CoreCompileInputs.cache
+E:\graphic\Me\Programming courses\ProgrammingAdvices\19 - Full Real Project\MyProject\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.CopyComplete
+E:\graphic\Me\Programming courses\ProgrammingAdvices\19 - Full Real Project\MyProject\DVLD_Buisness\obj\Debug\DVLD_Buisness.dll
+E:\graphic\Me\Programming courses\ProgrammingAdvices\19 - Full Real Project\MyProject\DVLD_Buisness\obj\Debug\DVLD_Buisness.pdb
+\\Mac\Home\Desktop\MyProject\DVLD_Buisness\bin\Debug\DVLD_Buisness.dll
+\\Mac\Home\Desktop\MyProject\DVLD_Buisness\bin\Debug\DVLD_Buisness.pdb
+\\Mac\Home\Desktop\MyProject\DVLD_Buisness\bin\Debug\DVLD_DataAccess.dll
+\\Mac\Home\Desktop\MyProject\DVLD_Buisness\bin\Debug\DVLD_DataAccess.pdb
+\\Mac\Home\Desktop\MyProject\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\MyProject\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\MyProject\DVLD_Buisness\obj\Debug\DVLD_Bui.E5CEC4E3.Up2Date
+\\Mac\Home\Desktop\MyProject\DVLD_Buisness\obj\Debug\DVLD_Buisness.dll
+\\Mac\Home\Desktop\MyProject\DVLD_Buisness\obj\Debug\DVLD_Buisness.pdb
+\\Mac\Home\Desktop\MyProject\DVLD_Buisness\bin\Debug\DVLD_DataAccess.dll.config
+C:\Users\abdel\Desktop\MyProject\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.AssemblyReference.cache
+C:\Users\abdel\Desktop\MyProject\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.CoreCompileInputs.cache
+C:\Users\abdel\Desktop\MyProject\DVLD_Buisness\obj\Debug\DVLD_Buisness.dll
+C:\Users\abdel\Desktop\MyProject\DVLD_Buisness\obj\Debug\DVLD_Buisness.pdb
+C:\Users\abdel\Desktop\MyProject\DVLD_Buisness\bin\Debug\DVLD_Buisness.dll
+C:\Users\abdel\Desktop\MyProject\DVLD_Buisness\bin\Debug\DVLD_Buisness.pdb
+C:\Users\abdel\Desktop\MyProject\DVLD_Buisness\bin\Debug\DVLD_DataAccess.dll
+C:\Users\abdel\Desktop\MyProject\DVLD_Buisness\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\abdel\Desktop\MyProject\DVLD_Buisness\bin\Debug\DVLD_DataAccess.dll.config
+C:\Users\abdel\Desktop\MyProject\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.CopyComplete
+E:\graphic\Me\Programming courses\ProgrammingAdvices\19 - Full Real Project\MyProject\DVLD_Buisness\bin\Debug\DVLD_DataAccess.dll.config
