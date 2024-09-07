@@ -1,0 +1,21 @@
+E:\graphic\Me\Programming courses\ProgrammingAdvices\19 - Full Real Project\MyProject\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.dll
+E:\graphic\Me\Programming courses\ProgrammingAdvices\19 - Full Real Project\MyProject\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.pdb
+E:\graphic\Me\Programming courses\ProgrammingAdvices\19 - Full Real Project\MyProject\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.AssemblyReference.cache
+E:\graphic\Me\Programming courses\ProgrammingAdvices\19 - Full Real Project\MyProject\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.CoreCompileInputs.cache
+E:\graphic\Me\Programming courses\ProgrammingAdvices\19 - Full Real Project\MyProject\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.dll
+E:\graphic\Me\Programming courses\ProgrammingAdvices\19 - Full Real Project\MyProject\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.pdb
+\\Mac\Home\Desktop\MyProject\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.dll
+\\Mac\Home\Desktop\MyProject\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.pdb
+\\Mac\Home\Desktop\MyProject\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\MyProject\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\MyProject\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.dll
+\\Mac\Home\Desktop\MyProject\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.pdb
+\\Mac\Home\Desktop\MyProject\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.dll.config
+C:\Users\abdel\Desktop\MyProject\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.dll.config
+C:\Users\abdel\Desktop\MyProject\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.dll
+C:\Users\abdel\Desktop\MyProject\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\abdel\Desktop\MyProject\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.AssemblyReference.cache
+C:\Users\abdel\Desktop\MyProject\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\abdel\Desktop\MyProject\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.dll
+C:\Users\abdel\Desktop\MyProject\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.pdb
+E:\graphic\Me\Programming courses\ProgrammingAdvices\19 - Full Real Project\MyProject\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.dll.config
