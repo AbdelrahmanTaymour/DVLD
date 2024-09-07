@@ -3,7 +3,7 @@
 Overview
 --------
 
-The DVLD Management System (Drivers and Vehicles License Department) is a comprehensive solution designed to manage various aspects of driving license administration. The system handles the issuance, renewal, and replacement of driving licenses, including international licenses. It ensures regulatory compliance while providing services to maintain road safety and driver competence.
+The DVLD (Drivers and Vehicles License Department) Management System is a comprehensive solution designed to manage various aspects of driving license administration. The system handles the issuance, renewal, and replacement of driving licenses, including international licenses. It ensures regulatory compliance while providing services to maintain road safety and driver competence.
 
 ## Key Services
 
